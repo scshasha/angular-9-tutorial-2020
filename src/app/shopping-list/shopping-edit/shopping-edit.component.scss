@@ -1,0 +1,10 @@
+form {
+    /** Add spacing between buttons */
+    button {
+        margin-right: 3px;
+    }
+    /** Remove margin on the last item */
+    button:last-child {
+        margin-right: 0px;
+    }
+}

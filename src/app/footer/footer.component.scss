@@ -1,0 +1,12 @@
+@import '../../styles.scss';
+
+footer {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+    .copy-right, .copy-right a {
+        color: $primary-text-light;
+    }
+}
